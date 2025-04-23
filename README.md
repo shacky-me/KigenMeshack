@@ -50,7 +50,6 @@
 #### 🖼️ **Design Tools**
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Flaticon_logo.svg" width="30" title="Flaticon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" title="Material UI"/>
 </p>

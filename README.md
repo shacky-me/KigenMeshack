@@ -1,57 +1,86 @@
-<h1 align="center">Hey 👋, I’m <a href="https://github.com/Meshack-dev">Meshack Kiprono!</a></h1>
-<a href="https://www.linkedin.com/in/kigen-meshack-7b0356209/">
-    <img align="left" alt="Meshack's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-<a href="https://www.instagram.com/your_instagram/">
-    <img align="left" alt="Meshack's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
-<br>
-<a href="https://yourportfolio.com/" align="left"> My portfolio : yourportfolio.com </a>
-<br>
-<br>
-<p>Hi, I’m Meshack Kiprono, a passionate software developer specialized in front-end web development. Enthusiastic about building clean, responsive, and accessible user interfaces. Graduate of ALX Software Engineering Program and holder of a BSc. in Business Information Technology. I am on a mission to innovate and grow with impact in the tech industry.</p>
-<p>”Code. Learn. Build. Repeat.”</p>
-<img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p><strong>Talking about Education/Skills:</strong></p>
-<ul>
-<li>
-<p>🎓 BSc. in Business Information Technology — The Co-operative University of Kenya</p>
-</li>
-<li>
-<p>Frontend Development: HTML, CSS, JavaScript, React, Tailwind CSS</p>
-</li>
-<li>
-<p>Backend Development: Python, Node.js, Express</p>
-</li>
-<li>
-<p>Tools & Platforms: Git, GitHub, Firebase, Vercel, Netlify</p>
-</li>
-<li>
-<p>Soft Skills: Teamwork, Problem Solving, Attention to Detail</p>
-</li>
-<li>
-<p>💬 Ask me about anything, I am happy to help</p>
-</li>
-<li>
-<p>📫 How to reach me: <a href="mailto:meshackkiprono12@gmail.com">meshackkiprono12@gmail.com</a></p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Meshack-dev&amp;show_icons=true&amp;hide_border=true" alt="Meshack's GitHub stats"></p>
-<p>:pushpin: Star and Fork this <a href="https://github.com/Meshack-dev/Meshack-dev">README</a> :pencil:</p>
-<p>💻 Recent projects in which I have contributed in my <a href="https://github.com/Meshack-dev/">GitHub</a></p>
-<a href="https://github.com/Meshack-dev/Project1">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Meshack-dev&amp;repo=Project1">
-</a>
-<a href="https://github.com/Meshack-dev/Project2">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Meshack-dev&amp;repo=Project2">
-</a>
-<a href="https://github.com/Meshack-dev/Project3">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Meshack-dev&amp;repo=Project3">
-</a>
-<a href="https://github.com/Meshack-dev/Project4">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Meshack-dev&amp;repo=Project4">
-</a>
-<hr>
-<p>Credits: <a href="https://github.com/Meshack-dev">Meshack-dev</a></p>
-<p>Last Edited on: [Insert Date]</p>
+<h1 align="center">Hi there, I'm Meshack 👋</h1>
+<p align="center"><i>Software Developer | Clean UI Enthusiast | IT Specialist</i></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 BSc. in **Business Information Technology** — The Co-operative University of Kenya
+- 👨‍💻 Graduate of **ALX Software Engineering Program** | Specialized in Front-end Web Development
+- 💡 Passionate about **building clean, responsive, accessible** user interfaces
+- 🚀 On a mission to **innovate and grow** with impact in the tech industry
+
+---
+
+### 🌱 Currently Learning
+
+- **Advanced JavaScript** (Mastering asynchronous programming and ES6+ features)
+- **UI/UX Design Principles**
+- **Cybersecurity Essentials**
+- **Backend Development (Python, Node.js & Express)**
+
+---
+
+### 🧠 Soft Skills
+
+- 🤝 **Teamwork & Collaboration**: I thrive in collaborative environments, working seamlessly with cross-functional teams.
+- 📈 **Problem Solving**: Passionate about finding efficient, creative solutions to challenges.
+- ✨ **Attention to Detail**: Always aiming for pixel-perfect designs and bug-free code.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+---
+
+#### 🌐 Languages & Frameworks
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" title="npm"/>
+  <img src="![alt text](image.png)" width="30" title="Tailwind CSS"/>
+</p>
+
+#### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" title="Firebase"/>
+  <img src="https://vercel.com/favicon.ico" width="30" title="Vercel"/>
+  <img src="https://www.netlify.com/favicon.ico" width="30" title="Netlify"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png" width="30" title="Trello"/>
+  <img src="https://img.icons8.com/ios/452/jira.png" width="30" title="Jira"/>
+  <img src="https://img.icons8.com/ios/452/material-ui.png" width="30" title="Material UI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Flaticon_logo.svg" width="30" title="Flaticon"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meshack-dev&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Meshack-dev&theme=github-dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+- 📫 Email: [your@email.com](mailto:meshackkiprono12@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kigen-meshack-7b0356209/)
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i><br>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>

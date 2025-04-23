@@ -12,7 +12,6 @@
 - 🎓 BSc. in **Business Information Technology** — The Co-operative University of Kenya
 - 👨‍💻 Graduate of **ALX Software Engineering Program** | Specialized in Front-end Web Development
 - 💡 Passionate about **building clean, responsive, accessible** user interfaces
-- 🧠 Currently learning: **DOM Manipulation, JavaScript Mastery, and Cybersecurity Essentials**
 - 🚀 On a mission to **innovate and grow** with impact in the tech industry
 
 ---
@@ -22,7 +21,7 @@
 - **Advanced JavaScript** (Mastering asynchronous programming and ES6+ features)
 - **UI/UX Design Principles**
 - **Cybersecurity Essentials**
-- **Backend Development (Node.js & Express)**
+- **Backend Development (Python, Node.js & Express)**
 
 ---
 

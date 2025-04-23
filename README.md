@@ -2,7 +2,7 @@
 <p align="center"><i>Frontend Developer | Clean UI Enthusiast | IT Specialist | Innovator</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
+  <img src="https://giphy.com/gifs/justy-pj30mdklB3FaaoFoOv" width="300" alt="Hi gif" />
 </p>
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Meshack 👋</h1>
+<h1 align="center">Hello, I'm Kigen Meshack 👋</h1>
 <p align="center"><i>Frontend Developer | Clean UI Enthusiast | IT Specialist | Innovator</i></p>
 
 <p align="center">
